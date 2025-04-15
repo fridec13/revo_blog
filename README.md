@@ -1,4 +1,4 @@
-# fridec13.github.io
+# revo_blog
 기록용 깃허브 블로그 만들어보기
 
 핵심 목표
